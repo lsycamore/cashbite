@@ -55,11 +55,11 @@ copyright = "© {year}"
         unsafe = true
 
 # Controls the navigation
-#[[menu.main]]
-#  identifier = "about"
-#  name = "about"
-#  title = "About"
-#  url = "/"
+[[menu.main]]
+  identifier = "Home"
+  name = "home"
+  title = "Home"
+  url = "/"
 
 [[menu.main]]
   identifier = "Paper Wallet"
