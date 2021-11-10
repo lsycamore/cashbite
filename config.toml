@@ -62,13 +62,25 @@ copyright = "© {year}"
 #  url = "/"
 
 [[menu.main]]
-  identifier = "Docs"
-  name = "docs"
-  title = "Docs"
-  url = "https://docs.cashbite.org"
+  identifier = "Paper Wallet"
+  name = "paperWallet"
+  title = "Paper Wallet"
+  url = "https://paperwallet.cashbite.org"
+
+[[menu.main]]
+  identifier = "Releases"
+  name = "releases"
+  title = "Releases"
+  url = "https://github.com/cashbitecrypto/cashbite/releases"
 
 [[menu.main]]
   identifier = "Explorer"
   name = "explorer"
   title = "Explorer"
   url = "https://explorer.cashbite.org"
+
+[[menu.main]]
+  identifier = "Docs"
+  name = "docs"
+  title = "Docs"
+  url = "https://docs.cashbite.org"
