@@ -56,9 +56,9 @@ copyright = "© {year}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "Home"
-  name = "home"
-  title = "Home"
+  identifier = "about"
+  name = "about"
+  title = "About"
   url = "/"
 
 [[menu.main]]
@@ -84,3 +84,9 @@ copyright = "© {year}"
   name = "docs"
   title = "Docs"
   url = "https://docs.cashbite.org"
+
+  [[menu.main]]
+  identifier = "Blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
