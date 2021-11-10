@@ -63,7 +63,7 @@ copyright = "© {year}"
 
 [[menu.main]]
   identifier = "Paper Wallet"
-  name = "paperWallet"
+  name = "paper wallet"
   title = "Paper Wallet"
   url = "https://paperwallet.cashbite.org"
 
