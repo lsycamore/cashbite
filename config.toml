@@ -61,32 +61,16 @@ copyright = "© {year}"
   title = "About"
   url = "/"
 
-[[menu.main]]
-  identifier = "Paper Wallet"
-  name = "paper wallet"
-  title = "Paper Wallet"
-  url = "https://paperwallet.cashbite.org"
+
 
 [[menu.main]]
-  identifier = "Releases"
-  name = "releases"
-  title = "Releases"
-  url = "https://github.com/cashbitecrypto/cashbite/releases"
-
-[[menu.main]]
-  identifier = "Explorer"
-  name = "explorer"
-  title = "Explorer"
-  url = "https://explorer.cashbite.org"
-
-[[menu.main]]
-  identifier = "Docs"
-  name = "docs"
-  title = "Docs"
-  url = "https://docs.cashbite.org"
-
-  [[menu.main]]
   identifier = "Blog"
   name = "blog"
   title = "Blog"
   url = "/blog"
+
+[[menu.main]]
+  identifier = "Token Tracker"
+  name = "token tracker"
+  title = "Token Tracker"
+  url = "https://poocoin.app/tokens/0x57d3776a4daf50b8b4c9948a460686882cd69e3e"
